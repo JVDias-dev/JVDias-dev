@@ -37,7 +37,7 @@
 <tr>
 <td width="55%" valign="top">
 
-### 👨‍💻 Sobre Mim
+###  Sobre Mim
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** na **Universidade Positivo**, com formação prevista para **2028**, baseado em Curitiba.
 
@@ -49,9 +49,9 @@ Atualmente atuo como **líder de projeto / CEO** em um sistema real desenvolvido
 
 Nesse projeto, coordeno um time multidisciplinar formado por:
 
-* 🎨 Designer
-* 💻 Developer
-* 🧪 QA Tester
+*  Designer
+*  Developer
+*  QA Tester
 
 Além do desenvolvimento, participo diretamente do contato com o cliente, levantamento de requisitos, definição de escopo e direcionamento do produto.
 
@@ -83,7 +83,7 @@ Meu objetivo de longo prazo é construir uma carreira rumo à **liderança técn
 │ CURRENT    : Project Leadership  │
 │ TARGET     : Tech Lead / AI      │
 │                                  │
-│ STATUS     : ● ONLINE             │
+│ STATUS     : ● ONLINE            │
 └──────────────────────────────────┘
 ```
 
@@ -97,7 +97,7 @@ Meu objetivo de longo prazo é construir uma carreira rumo à **liderança técn
 
 ## `// CORE TECHNOLOGY`
 
-### ⚡ Tech Stack
+###  Tech Stack
 
 </div>
 
@@ -105,7 +105,7 @@ Meu objetivo de longo prazo é construir uma carreira rumo à **liderança técn
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 Front-end
+###  Front-end
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,ts,tailwind" />
@@ -121,7 +121,7 @@ Meu objetivo de longo prazo é construir uma carreira rumo à **liderança técn
 
 <td width="50%" valign="top">
 
-### ⚙️ Back-end / Dados
+###  Back-end / Dados
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,postgres,prisma,docker" />
@@ -137,7 +137,7 @@ Meu objetivo de longo prazo é construir uma carreira rumo à **liderança técn
 <tr>
 <td valign="top">
 
-### 🤖 IA / Integrações
+###  IA / Integrações
 
 <p align="center">
 
@@ -155,7 +155,7 @@ Meu objetivo de longo prazo é construir uma carreira rumo à **liderança técn
 
 <td valign="top">
 
-### 🧩 Modelagem / Engenharia
+###  Modelagem / Engenharia
 
 <p align="center">
 
@@ -170,7 +170,7 @@ Meu objetivo de longo prazo é construir uma carreira rumo à **liderança técn
 <tr>
 <td colspan="2" align="center">
 
-### 🏭 Simulação / Industrial
+###  Simulação / Industrial
 
 <img src="https://img.shields.io/badge/FlexSim-Process%20Simulation-0369A1?style=for-the-badge&logoColor=white"/>
 
@@ -184,7 +184,7 @@ Meu objetivo de longo prazo é construir uma carreira rumo à **liderança técn
 
 ## `// DEVELOPMENT ENVIRONMENT`
 
-### 🛠️ Ferramentas
+###  Ferramentas
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,notion,postman,linux" />
 
@@ -211,7 +211,7 @@ Meu objetivo de longo prazo é construir uma carreira rumo à **liderança técn
 <tr>
 <td width="50%" valign="top">
 
-### 🎤 Garçons Cantores
+###  Garçons Cantores
 
 **`REAL CLIENT / PRODUCT / LEADERSHIP`**
 
@@ -233,7 +233,7 @@ Atuo como ponte entre o cliente e o time, participando do levantamento de requis
 
 <td width="50%" valign="top">
 
-### 🤖 Sistema de Triagem de Tickets com IA
+###  Sistema de Triagem de Tickets com IA
 
 **`AI / AUTOMATION / INTELLIGENT ROUTING`**
 
@@ -243,10 +243,10 @@ Sistema desenvolvido utilizando **Node-RED + LLM via OpenRouter API**.
 
 O modelo analisa automaticamente:
 
-* 🏷️ Categoria
-* 🚨 Urgência
-* 💭 Sentimento
-* 🔀 Roteamento
+*  Categoria
+*  Urgência
+*  Sentimento
+*  Roteamento
 
 Um experimento prático de aplicação de **LLMs em processos operacionais**.
 
@@ -256,7 +256,7 @@ Um experimento prático de aplicação de **LLMs em processos operacionais**.
 <tr>
 <td width="50%" valign="top">
 
-### 🍺 ERP — Fábrica de Cerveja
+###  ERP — Fábrica de Cerveja
 
 **`ACADEMIC / SOFTWARE ENGINEERING`**
 
@@ -274,7 +274,7 @@ O objetivo foi transformar requisitos de negócio em uma solução estruturada e
 
 <td width="50%" valign="top">
 
-### 📚 Catálogo de Livros
+###  Catálogo de Livros
 
 **`FULL STACK / DATABASE / COLLABORATION`**
 
@@ -303,26 +303,26 @@ Foco em integração entre frontend, backend, ORM e banco de dados.
 ```text
 ╭────────────────────────────────────────────────────────────────────╮
 │                                                                    │
-│  JVDIAS@DEV-SYSTEM:~$ ./current_objectives.sh                     │
+│  JVDIAS@DEV-SYSTEM:~$ ./current_objectives.sh                      │
 │                                                                    │
 │  [████████████████████████████████████████████████████]  ONLINE    │
 │                                                                    │
-│  > Exploring AI & Data certifications                             │
+│  > Exploring AI & Data certifications                              │
 │                                                                    │
-│    ├── Microsoft AI-900                                             │
-│    ├── Google Data Analytics                                        │
-│    ├── AWS Developer                                                │
-│    └── IBM AI Fundamentals                                          │
+│    ├── Microsoft AI-900                                            │
+│    ├── Google Data Analytics                                       │
+│    ├── AWS Developer                                               │
+│    └── IBM AI Fundamentals                                         │
 │                                                                    │
-│  > Searching for first internship / professional opportunity      │
+│  > Searching for first internship / professional opportunity       │
 │                                                                    │
 │  > Building a career path between Software Development & AI        │
 │                                                                    │
-│  > Long-term target: TECH LEAD                                     │
+│  > Long-term target:                                               │
 │                                                                    │
 │  > Specialization target: AI / ML Engineering Leadership           │
 │                                                                    │
-│  STATUS: LEARNING...                                                │
+│  STATUS: LEARNING...                                               │
 │                                                                    │
 ╰────────────────────────────────────────────────────────────────────╯
 ```
@@ -339,7 +339,7 @@ Foco em integração entre frontend, backend, ORM e banco de dados.
 <tr>
 <td align="center" width="33%">
 
-### 🧠 Leadership
+###  Leadership
 
 **Multidisciplinary Teams**
 
@@ -349,7 +349,7 @@ Coordenação entre diferentes funções, mantendo visão técnica e de produto.
 
 <td align="center" width="33%">
 
-### 🎯 Product
+###  Product
 
 **Real Client Interface**
 
@@ -359,7 +359,7 @@ Levantamento de requisitos, definição de escopo e comunicação direta com cli
 
 <td align="center" width="33%">
 
-### 🤝 Collaboration
+###  Collaboration
 
 **Cross-functional Work**
 
@@ -442,7 +442,7 @@ Experiência colaborando entre Engenharia de Software, Sistemas de Informação 
 │  The future is not something we wait for.                     │
 │  It is something we engineer.                                 │
 │                                                               │
-│  ─────────────────────────────────────────────────────────     │
+│  ─────────────────────────────────────────────────────────    │
 │                                                               │
 │  JVDias-dev                                                   │
 │  Software Engineering • Artificial Intelligence • Leadership  │
